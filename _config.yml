@@ -1,0 +1,28 @@
+name: angelgene
+favicon: null
+layout_spectrum: 0.3726031561382115
+typography_spectrum: 0.48669497668743134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4694965882226825
+  lightness: 0.9879952436313033
+  saturation: 0.696520749013871
+  rhythmicContrast: 0.747868642443791
+purpose: []
