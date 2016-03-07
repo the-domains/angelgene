@@ -1,4 +1,4 @@
-name: angelgene
+name: Angel Gené
 favicon: null
 layout_spectrum: 0.63671
 typography_spectrum: 0.55754
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d1af8c'
-    - '#fefeeb'
-    - '#531000'
-    - '#955829'
-    - '#ba7a3a'
+    - '#e5d6bb'
+    - '#eb8b12'
+    - '#000015'
+    - '#3d3531'
+    - '#cc2622'
   brandStrength: 0.8125
-  lightness: 0.875
-  saturation: 0.8125
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
