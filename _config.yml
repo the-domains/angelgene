@@ -1,7 +1,7 @@
 name: angelgene
 favicon: null
-layout_spectrum: 0.23238
-typography_spectrum: 0.71843
+layout_spectrum: 0.63671
+typography_spectrum: 0.55754
 title: angelgene
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#531000'
     - '#955829'
     - '#ba7a3a'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.875
   saturation: 0.8125
   rhythmicContrast: 0.75
